@@ -1,4 +1,4 @@
-<h2 align='left'><samp><strong>Hi there 👋. I am André Silva</strong></samp></h2>
+<h2 align='left'><strong>Hi there 👋. I am André Silva.</strong></h2>
 
 <p align='left'>Software engineer | Fullstack developer | Web developer</p>
 
