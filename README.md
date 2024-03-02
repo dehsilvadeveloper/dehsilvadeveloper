@@ -2,7 +2,7 @@
 
 <p align='left'>Software engineer | Fullstack developer | Web developer</p>
 
-<p align='left'> 💬 Someone who is always passionate for learning more about tech and life.</p>
+<p align='left'> 💬 Someone who enjoy learning more about tech and life.</p>
 
 ### 📫 How to reach me
 
