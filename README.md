@@ -1,6 +1,6 @@
 <h2 align='left'><strong>Hi there 👋. I am André Silva.</strong></h2>
 
-<p align='left'>Software engineer | Fullstack developer | Web developer</p>
+<p align='left'>Software developer | Fullstack developer | Backend developer</p>
 
 <p align='left'> 💬 Someone who enjoy learning more about tech and life.</p>
 
